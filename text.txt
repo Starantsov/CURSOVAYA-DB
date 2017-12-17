@@ -1,0 +1,48 @@
+Detail name: bmw
+Detail suitable for car brand: Bmw
+More information: 1
+Value: 1
+Available: 0
+---------------------------------------------
+Detail name: Suspention
+Detail suitable for car brand: Bmw
+More information: Spring #125
+Value: 2500
+Available: 1
+---------------------------------------------
+Detail name: Wheels
+Detail suitable for car brand: Mersedes
+More information: Rim 21d.
+Value: 3000
+Available: 4
+---------------------------------------------
+Detail name: Engine
+Detail suitable for car brand: Audi
+More information: Cylinder
+Value: 10000
+Available: 12
+---------------------------------------------
+Detail name: 
+Detail suitable for car brand: Audi
+More information: Cylinder
+Value: 10000
+Available: 12
+---------------------------------------------
+Detail name: Bmw
+Detail suitable for car brand: Bmw
+More information: 1
+Value: 1
+Available: 0
+---------------------------------------------
+Detail name: bmw
+Detail suitable for car brand: Bmw
+More information: 1
+Value: 1
+Available: 0
+---------------------------------------------
+Detail name: 
+Detail suitable for car brand: Bmw
+More information: 1
+Value: 1
+Available: 0
+---------------------------------------------

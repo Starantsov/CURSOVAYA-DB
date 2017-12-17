@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\1\source\repos\курсовая(консоль)\funcs.h(247): warning C4715: 'Sort': not all control paths return a value
+c:\users\1\source\repos\курсовая(консоль)\funcs.h(155): warning C4715: 'FillTemp': not all control paths return a value
+  Project4.vcxproj -> C:\Users\1\source\repos\Курсовая(Консоль)\x64\Debug\Project4.exe
